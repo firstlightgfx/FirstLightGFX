@@ -20,6 +20,11 @@
 .u-section-1 .u-image-1 {
   width: 487px;
   height: 646px;
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
   margin: -474px auto 0 55px;
 }
 
@@ -99,11 +104,6 @@
   .u-section-1 .u-image-1 {
     width: 505px;
     height: 525px;
-    --animation-custom_in-translate_x: 300px;
-    --animation-custom_in-translate_y: 0px;
-    --animation-custom_in-opacity: 0;
-    --animation-custom_in-rotate: 0deg;
-    --animation-custom_in-scale: 1;
     animation-timing-function: ease;
     margin-top: -460px;
     margin-right: 22px;
