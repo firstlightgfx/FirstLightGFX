@@ -69,10 +69,10 @@
   }
 
   .u-section-1 .u-text-3 {
-    width: 614px;
+    width: auto;
     margin-top: 114px;
     margin-left: 46px;
-    margin-right: 22px;
+    margin-right: 46px;
   }
 }
 
@@ -108,8 +108,8 @@
     font-size: 0.875rem;
     width: 549px;
     margin-top: 281px;
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
@@ -177,8 +177,9 @@
   .u-section-1 .u-text-3 {
     font-size: 0.75rem;
     width: 242px;
-    margin-left: 0;
-    margin-right: 0;
+    margin-top: 274px;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
@@ -315,11 +316,11 @@
   }
 
   .u-section-3 .u-text-2 {
-    margin-top: 27px;
+    margin-top: 24px;
   }
 
   .u-section-3 .u-btn-1 {
-    margin-top: 0;
+    margin-top: 3px;
   }
 }
 
@@ -334,7 +335,11 @@
 
   .u-section-3 .u-text-2 {
     width: 446px;
-    margin-top: 30px;
+    margin-top: 19px;
+  }
+
+  .u-section-3 .u-btn-1 {
+    margin-top: 11px;
   }
 }
 
